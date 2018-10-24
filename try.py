@@ -40,7 +40,7 @@ def call_script():
     os.system('python wa.py')
 btn=Button(root,text="Save",command=lambda:receive_input())
 btn1=Button(root,text="Go",command=lambda:call_script())
-
+print("sachi shah")
 w.pack()
 e1.pack()
 x.pack()
